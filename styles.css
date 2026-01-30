@@ -639,13 +639,18 @@ body {
 
 .browsing-history{
     background-color: white;
-    height: 250px;
+    height: 260px;
     margin:20px;
 }
 
-.history{
-    font-size:20px;
-    font-weight: 600;
+.browsing-history a{
+    font-size: 22px;
+    margin:1rem;
+}
+
+.browsing-imgs img{
+    justify-content: space-evenly;
+    margin-left: 1rem;
     margin-top: 1rem;
 }
 
